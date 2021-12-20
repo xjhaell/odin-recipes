@@ -1,0 +1,43 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px; 
+}
+
+.cover, #header { 
+    text-align: center; 
+    font-size: 32px;
+}
+
+#sc, #cc { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sc {
+    width: 350px;
+    height: 425px;
+}
+
+#cc {
+    width: 400px; 
+    height: 400px;
+}
+
+.buttonSugarCookies, .buttonChocolateChip {
+    text-align: center;
+    padding: 20px;
+    font-size: 18px; 
+    font-weight: bold;
+}
+.buttonSugarCookies {
+    background-color: #f5f5dc; 
+    border: 3px dotted #ffc0cb;  
+}
+
+.buttonChocolateChip {
+    background-color: #ebcb99;
+    border: 3px dotted #523200; 
+}
+
+
